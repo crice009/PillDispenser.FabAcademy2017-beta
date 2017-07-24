@@ -1,4 +1,4 @@
-Pill Dispenser (working title: Novelda)
+#Pill Dispenser (working title: Novelda)
 Fab Academy2017 --beta
 
 These files build a device that will manage pills medications for someone who needs to take them on a schedule. Ideally, this machine will dispense pills and make simple efforts to through sensors and alerts (local and internet based) to avoid too much or too little medication being taken at any time. Perhaps even with medication compliance information that could be useful for better understanding the user’s behavior. My hope was to create a valuable data stream, where there was none previously. 
